@@ -1,6 +1,6 @@
 ### Hi there, I'm Alex 
 
-## I'm a Student, Developer, and Technology enthusiast!
+## I'm a Student, Developer, and Technology Enthusiast!
 - 🔭 I’m currently working on a bunch of personal projects!
 - 🌱 I’m on the path to master Spring Boot
 - 👯 I’m open to working with other developers on meaningful projects
