@@ -15,8 +15,8 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="HTML5" width="26px" 
-src="https://assets.exercism.io/tracks/x86-64-assembly-bordered-turquoise.png" />]
+<img align="left" alt="HTML5" width="26px" 
+src="https://assets.exercism.io/tracks/x86-64-assembly-bordered-turquoise.png" />
 [<img align="left" alt="HTML5" width="26px" 
 src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon-700x392.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
