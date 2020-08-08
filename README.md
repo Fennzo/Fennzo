@@ -1,4 +1,4 @@
-### Hi there, I'm Alex 
+### Hi there, I'm Alex - aka Fennzo
 
 ## I'm a Student, Developer, and Technology Enthusiast!
 - 🔭 I’m currently working on a bunch of personal projects!
