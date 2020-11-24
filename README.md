@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a bunch of personal projects!
 - 🌱 I’m on the path to master Spring Boot
 - 👯 I’m open to working with other developers on meaningful projects
-- 🥅 2020 Goals: Get grip on the life of a developer
+- 🥅 2020 Goals: Get a grip on the life of a developer
 - ⚡ Fun fact: I sell tech products as a side hustle
 
 ### Connect with me:
